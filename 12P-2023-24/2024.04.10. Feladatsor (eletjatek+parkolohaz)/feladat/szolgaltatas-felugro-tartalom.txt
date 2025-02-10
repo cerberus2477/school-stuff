@@ -1,0 +1,6 @@
+3. Kártya:
+- id: "szolgaltatasokModal3"
+- Felirat: "Mobilalkalmazás"
+- kép forrása: "assets/img/modals/application.jpg"
+- kép helyettesítő szövege: "Mobilalkalmazás"
+- szöveg: "Parkolóházunkba már mobilalkalmazás segítségével is regisztrálhat. Az applikációval könnyedén azonosíthatja magát a beléptető kapuknál. Az alkalmazás ezen felül segít Önnek elnavigálni a kijelölt parkolóhelyhez is."
