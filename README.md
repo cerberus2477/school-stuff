@@ -4,14 +4,12 @@ Pl:
 - C#
 - WEB
 - SQL
-
-Legutolsó feltöltött feladat: 2024.03.12
+- fájl (pl csv fájlból adatolvasás)
+- PHP
 
 TODO:
-- Teamsről haladni tovább visszafelé
-- Pendrive
-- Tanüzem gépről idei dolgaim(ha van)
-- Obsidian tudás dolgokat valahogy egy helyre
+- Tanüzem gépről idei dolgok ide
+- Obsidian dolgokat valahogy egy helyre
 - Lehetne olyan fájlokat összeszedn iamik sokszor kellenek (általában úgyis ezért nézem vissza a régebbi projekteket). **Például:**
     - adatbázshoz csatlakozás
     - mysql.dll
