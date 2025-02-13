@@ -1,0 +1,9 @@
+Készítse el a terv.docx szerinti formázással, HTML5, CSS3, JavaScript segítségével, a következő weboldalt.
+A weboldal címe Európai mobilitási hét legyen.
+Az oldal szövegéhez használhatja pl.:
+https://greendex.hu/tag/europai-mobilitasi-het/
+Keressen képeket, leírást/programokat a mobilitási héttel kapcsolatban!
+Az űrlap blokkban kérdezze meg melyik programon szeretne résztvenni az olvasó és irányítsa a megfelelő oldalra. A megkérdezéshez rádiógombokat használjon, amiket ne alakítson az oldalon lévő aktív linkké!
+Az oldal legyen esztétikus (háttér, linkek színe, képkeretek, képek elhelyezkedése, ...)!
+ 
+

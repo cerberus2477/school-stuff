@@ -1,0 +1,12 @@
+Írjon programot, mely az elkészítendő étel receptje és az egységárak ismeretében meghatározza az étel nyersanyagköltségét!
+Kérjen be egy dátumot! Adja meg, hogy ez az adott év hányadik napja! (Figyeljenek, a szökőévekre!)
+Kérjen be egy számot, s döntse el, hogy Fibonacci-szám-e?
+Döntse el, hogy egy számokat tartalmazó halmazban, van-e olyan számpár, amelynek szorzata a felhasználótól bekért számmal megegyezik.
+Ismerjük N ember keresztnevét. Készítsen programot, mely eldönti, hogy van-e olyan köztük, akivel nincs azonos keresztnevű!
+Olvassunk be egy mondatokból álló szöveget! Írassuk ki a felhasználó által meghatározott sorszámú mondatot. Ha a kértnél kevesebb mondat van, akkor írja ki: "Nincs ennyi mondat!"
+Egy csiga beleesett egy H méter mély kútba, ahonnan ki akar mászni. Nehéz az út, ezért úgy mászik, hogy egy órát mászik felfelé, majd fél órát pihen, de ezalatt visszacsúszik valamennyit. Mivel egyre fáradtabb, ezért egyre lassabban mászik felfelé. Az első órában 2 métert megy föl, majd B métert (B<=1) visszacsúszik. A következő nekirugaszkodásnál 1,5 métert tesz meg fölfelé, majd pihen és B métert csúszik vissza. Általában a k. nekirugaszkodásra 1+1/k métert megy fölfelé, majd B métert vissza. Készítsünk programot, amely segít csigánénak eldönteni mikor tálalhatja az ebédet, azaz hányadik órában ér fel a kútból a férje.
+Adott egy táblázat, amely egyben egy nézőtér ülésrendje is. A helyek egy részét már eladták, ezt 1-gyel jelölik, az üres helyeket 0-val. Kérjen be egy pozíciót/helyet a felhasználótól, s adja meg a legközelebbi üres helyet, helyeket. Van-e olyan sor, amelyben csak egyetlen üres hely van? Ha igen melyik/melyek?
+Egy repülőgépről a szárazföldön kezdve X km-ként megmérjük a felszín tengerszint feletti magasságát. A méréssorozatot szárazföld felett fejeztük be. Ahol a mérés 0, ott tenger van, ahol nagyobb mint 0, ott szárazföld. A méréssorozatból határozzunk meg egy szigetkezdetét és végét! Hány sziget van?
+Határozza meg az S karaktersorozatban a magánhangzók számát!
+Egy beolvasott szövegben hány olyan egymást követő szó van, amelynél a szó befejező karaktere és a következő kezdő karaktere megegyezik?
+Adja meg egy rendezetlen tömbben azt az elemet, amely nagyobb az őt megelőzőnél, de kisebb az utána következőknél.
