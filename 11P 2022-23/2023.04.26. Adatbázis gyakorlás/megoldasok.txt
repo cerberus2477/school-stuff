@@ -1,0 +1,56 @@
+2
+ALTER TABLE torpek MODIFY magassag int
+
+3
+ALTER TABLE kihol ADD CONSTRAINT fk_kihol_torpek FOREIGN KEY (torpe_id) REFERENCES torpek (id);
+ALTER TABLE kihol ADD CONSTRAINT fk_kihol_tarnak FOREIGN KEY (tarna_id) REFERENCES tarnak (id);
+ALTER TABLE tarnak ADD CONSTRAINT fk_tarnak_kozetek FOREIGN KEY (kozet_id) REFERENCES kozetek (id);
+
+5
+SELECT nev, max(magassag) FROM torpek
+
+6
+SELECT COUNT(*)
+FROM tarnak INNER JOIN kihol ON kihol.tarna_id = tarnak.id
+WHERE tarnak.nev = "Gir Lodur"
+
+7
+SELECT tarnak.nev, SUM(kitermelt_mennyiseg) as "menny"
+FROM tarnak INNER JOIN kihol ON tarnak.id = kihol.tarna_id INNER JOIN kozetek ON kozetek.id = tarnak.kozet_id
+WHERE kozetek.nev = "arany"
+GROUP BY tarnak.nev
+ORDER BY menny DESC;
+
+8
+SELECT nev
+FROM torpek INNER JOIN kihol ON torpek.id = kihol.torpe_id
+WHERE nem = "N" AND klan = "Vasököl"
+GROUP BY nev
+Order BY SUM(kitermelt_mennyiseg) DESC
+LIMIT 1
+
+9
+INSERT INTO torpek (nev, nem, magassag, suly, klan) VALUES ("Trad Morf", "F", 136, 69, "Vasököl")
+
+11
+SELECT tarnak.nev, kozetek.nev, Sum(kitermelt_mennyiseg)
+FROM kihol INNER JOIN (tarnak INNER JOIN kozetek on tarnak.kozet_id = kozetek.id) ON kihol.tarna_id = tarnak.id
+GROUP BY tarnak.nev, kozetek.nev
+
+12
+SELECT torpek.klan, SUM(kitermelt_mennyiseg) as arany
+FROM kihol INNER JOIN (tarnak INNER JOIN kozetek on tarnak.kozet_id = kozetek.id) ON kihol.tarna_id = tarnak.id INNER JOIN torpek on torpek.id = kihol.torpe_id
+WHERE kozetek.nev = "arany"
+GROUP BY torpek.klan
+Order BY arany DESC
+LIMIT 1;
+
+13
+SELECT klan, min(magassag)
+FROM torpek
+WHERE nem = "F"
+
+
+
+
+
