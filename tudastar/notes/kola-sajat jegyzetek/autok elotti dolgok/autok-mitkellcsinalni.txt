@@ -1,0 +1,62 @@
+1. htdocs mappában
+- composer create-project laravel/laravel autok
+
+- cd autok
+
+2. .env fájlban 22. sortól kb ne legyen kikommentelve, dbnamet adjuk meg és sqlite helyett mysql
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=autok
+DB_USERNAME=root
+DB_PASSWORD=
+
+3. stackoverflowrol: https://stackoverflow.com/questions/32191135/how-to-create-database-schema-table-in-laravel
+- php artisan make:command mysql
+
+
+
+- fill the content of App\Console\Commands\createdb.php:
+
+``` 
+use Illuminate\Support\Facades\DB;
+
+
+    protected $signature = 'mysql:createdb {name?}';
+    protected $description = 'Create a new mysql database schema based on the database config file';
+    public function __construct()
+    {
+        parent::__construct();
+    }
+
+
+    public function handle()
+    {
+        $schemaName = $this->argument('name') ?: config("database.connections.mysql.database");
+        $charset = config("database.connections.mysql.charset",'utf8mb4');
+        $collation = config("database.connections.mysql.collation",'utf8mb4_unicode_ci');
+
+        config(["database.connections.mysql.database" => null]);
+
+        $query = "CREATE DATABASE IF NOT EXISTS $schemaName CHARACTER SET $charset COLLATE $collation;";
+
+        DB::statement($query);
+
+        config(["database.connections.mysql.database" => $schemaName]);
+    }
+}
+ ```
+
+
+4. dropdb ugyanígy
+
+5. - php artisan mysql:createdb autok
+- php artisan mysql:dropdb schema_name
+ezzel hozzuk létre ezeket a parancsokat a developereknek kb
+
+
+5. migrációt létrehozni amiben a gyártók vannak, id legyen és név
+
+feltölteni a migrációt adatokkal
+
+- php artisan make:migration create_gyartok_table

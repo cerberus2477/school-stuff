@@ -1,0 +1,4 @@
+GET /counties/1/cities
+GET /counties/1/cities/14
+
+ehhez át kell írni a getnamet kinda

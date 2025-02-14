@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TÜNDE - ne töröld\\school-stuff github\\13P-2024-25\\2025.02.14 net nelkul\\1. feladat - grafikus és konzolos\\RealEstate\\RealEstate\\RealEstate.csproj": {}
+  },
+  "projects": {
+    "D:\\TÜNDE - ne töröld\\school-stuff github\\13P-2024-25\\2025.02.14 net nelkul\\1. feladat - grafikus és konzolos\\RealEstate\\RealEstate\\RealEstate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TÜNDE - ne töröld\\school-stuff github\\13P-2024-25\\2025.02.14 net nelkul\\1. feladat - grafikus és konzolos\\RealEstate\\RealEstate\\RealEstate.csproj",
+        "projectName": "RealEstate",
+        "projectPath": "D:\\TÜNDE - ne töröld\\school-stuff github\\13P-2024-25\\2025.02.14 net nelkul\\1. feladat - grafikus és konzolos\\RealEstate\\RealEstate\\RealEstate.csproj",
+        "packagesPath": "C:\\Users\\3041TAN-13\\.nuget\\packages\\",
+        "outputPath": "D:\\TÜNDE - ne töröld\\school-stuff github\\13P-2024-25\\2025.02.14 net nelkul\\1. feladat - grafikus és konzolos\\RealEstate\\RealEstate\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\3041TAN-13\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

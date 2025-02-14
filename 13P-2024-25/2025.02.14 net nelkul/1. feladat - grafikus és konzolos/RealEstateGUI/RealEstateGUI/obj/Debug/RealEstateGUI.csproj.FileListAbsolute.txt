@@ -1,0 +1,26 @@
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstateGUI\RealEstateGUI\bin\Debug\RealEstateGUI.exe.config
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstateGUI\RealEstateGUI\bin\Debug\RealEstateGUI.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstateGUI\RealEstateGUI\bin\Debug\RealEstateGUI.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.csproj.AssemblyReference.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.Form1.resources
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.Properties.Resources.resources
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.csproj.GenerateResource.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.csproj.CoreCompileInputs.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.csproj.AssemblyReference.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.Form1.resources
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.Properties.Resources.resources
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.csproj.GenerateResource.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.csproj.CoreCompileInputs.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\obj\Debug\RealEstateGUI.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\bin\Debug\RealEstateGUI.exe.config
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\bin\Debug\RealEstateGUI.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\bin\Debug\RealEstateGUI.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\bin\Debug\MySql.Data.dll
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\bin\Debug\System.Memory.dll
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\bin\Debug\System.Numerics.Vectors.dll
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\bin\Debug\System.Buffers.dll
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstateGUI\RealEstateGUI\obj\Debug\RealEsta.4E934238.Up2Date

@@ -1,0 +1,18 @@
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstate\RealEstate\bin\Debug\RealEstate.exe.config
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstate\RealEstate\bin\Debug\RealEstate.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstate\RealEstate\bin\Debug\RealEstate.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstate\RealEstate\obj\Debug\RealEstate.csproj.AssemblyReference.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstate\RealEstate\obj\Debug\RealEstate.csproj.CoreCompileInputs.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstate\RealEstate\obj\Debug\RealEstate.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstate\RealEstate\obj\Debug\RealEstate.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstate\RealEstate\bin\Debug\Newtonsoft.Json.dll
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\RealEstate\RealEstate\obj\Debug\RealEstate.csproj.Up2Date
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstate\RealEstate\bin\Debug\RealEstate.exe.config
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstate\RealEstate\bin\Debug\RealEstate.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstate\RealEstate\bin\Debug\RealEstate.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstate\RealEstate\bin\Debug\Newtonsoft.Json.dll
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstate\RealEstate\obj\Debug\RealEstate.csproj.AssemblyReference.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstate\RealEstate\obj\Debug\RealEstate.csproj.CoreCompileInputs.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstate\RealEstate\obj\Debug\RealEstate.csproj.Up2Date
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstate\RealEstate\obj\Debug\RealEstate.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\1. feladat - grafikus és konzolos\RealEstate\RealEstate\obj\Debug\RealEstate.pdb

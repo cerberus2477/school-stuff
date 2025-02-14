@@ -14,3 +14,5 @@ TODO:
     - adatbázshoz csatlakozás
     - mysql.dll
     - fájl írás beolvasás szépen
+    - data binding
+    - js api hivasok
