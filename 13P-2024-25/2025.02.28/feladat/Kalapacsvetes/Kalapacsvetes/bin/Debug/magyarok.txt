@@ -1,0 +1,5 @@
+Helyezés;Eredmény;;Sportoló;Országkód;Helyszín;Dátum
+9;84,19;Adrián Annus;HUN;Szombathely;2003.08.10
+11;83,68;Tibor Gécsek;HUN;Zalaegerszeg;1998.09.19
+18;83;Balázs Kiss;HUN;Saint-Denis;1998.06.04
+21;82,69;Krisztián Pars;HUN;Zürich;2014.08.16

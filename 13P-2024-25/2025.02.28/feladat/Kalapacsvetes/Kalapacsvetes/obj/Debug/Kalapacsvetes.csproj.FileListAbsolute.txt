@@ -1,0 +1,14 @@
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\Kalapacsvetes\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe.config
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\Kalapacsvetes\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\Kalapacsvetes\Kalapacsvetes\bin\Debug\Kalapacsvetes.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\Kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.AssemblyReference.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\Kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.CoreCompileInputs.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\Kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.14 net nelkul\Kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\Kalapacsvetes\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe.config
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\Kalapacsvetes\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\Kalapacsvetes\Kalapacsvetes\bin\Debug\Kalapacsvetes.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\Kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.AssemblyReference.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\Kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.CoreCompileInputs.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\Kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\Kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.pdb

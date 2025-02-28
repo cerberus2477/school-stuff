@@ -1,0 +1,10 @@
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\fuggohid\fuggohid\bin\Debug\fuggohid.exe.config
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\fuggohid\fuggohid\bin\Debug\fuggohid.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\fuggohid\fuggohid\bin\Debug\fuggohid.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\fuggohid\fuggohid\obj\Debug\fuggohid.csproj.AssemblyReference.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\fuggohid\fuggohid\obj\Debug\fuggohid.frm_fuggohidak.resources
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\fuggohid\fuggohid\obj\Debug\fuggohid.Properties.Resources.resources
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\fuggohid\fuggohid\obj\Debug\fuggohid.csproj.GenerateResource.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\fuggohid\fuggohid\obj\Debug\fuggohid.csproj.CoreCompileInputs.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\fuggohid\fuggohid\obj\Debug\fuggohid.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.02.28\Asztali feladat 0228\fuggohid\fuggohid\obj\Debug\fuggohid.pdb
