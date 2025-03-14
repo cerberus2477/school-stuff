@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|solutionrelative:hattertarolo\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\ssd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|solutionrelative:hattertarolo\\ssd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\dvd-rw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|solutionrelative:hattertarolo\\dvd-rw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|solutionrelative:hattertarolo\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|solutionrelative:hattertarolo\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|solutionrelative:hattertarolo\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674A9077-0C65-41E6-A1C2-BC7B333F3C09}|hattertarolo\\hattertarolo.csproj|solutionrelative:hattertarolo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\Computer.cs",
+              "RelativeDocumentMoniker": "hattertarolo\\Computer.cs",
+              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\Computer.cs",
+              "RelativeToolTip": "hattertarolo\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:18:04.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SSD.cs",
+              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\SSD.cs",
+              "RelativeDocumentMoniker": "hattertarolo\\SSD.cs",
+              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\SSD.cs",
+              "RelativeToolTip": "hattertarolo\\SSD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:14:06.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DVD-RW.cs",
+              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\DVD-RW.cs",
+              "RelativeDocumentMoniker": "hattertarolo\\DVD-RW.cs",
+              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\DVD-RW.cs",
+              "RelativeToolTip": "hattertarolo\\DVD-RW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:07:59.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\DVD.cs",
+              "RelativeDocumentMoniker": "hattertarolo\\DVD.cs",
+              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\DVD.cs",
+              "RelativeToolTip": "hattertarolo\\DVD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:49:18.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\Storage.cs",
+              "RelativeDocumentMoniker": "hattertarolo\\Storage.cs",
+              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\Storage.cs",
+              "RelativeToolTip": "hattertarolo\\Storage.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwD0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:10:22.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "File.cs",
+              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\File.cs",
+              "RelativeDocumentMoniker": "hattertarolo\\File.cs",
+              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\File.cs",
+              "RelativeToolTip": "hattertarolo\\File.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:57:42.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\Program.cs",
+              "RelativeDocumentMoniker": "hattertarolo\\Program.cs",
+              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\hattertarolo 01.24\\hattertarolo\\hattertarolo\\Program.cs",
+              "RelativeToolTip": "hattertarolo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:57:14.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

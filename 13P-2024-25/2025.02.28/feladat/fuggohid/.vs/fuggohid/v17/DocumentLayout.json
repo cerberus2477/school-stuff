@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\fuggohid\\",
+  "WorkspaceRootPath": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\school-stuff github\\13p-2024-25\\2025.02.28\\asztali feladat 0228\\fuggohid\\fuggohid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\school-stuff github\\13p-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|solutionrelative:fuggohid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\school-stuff github\\13p-2024-25\\2025.02.28\\asztali feladat 0228\\fuggohid\\fuggohid\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|solutionrelative:fuggohid\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\school-stuff github\\13p-2024-25\\2025.02.28\\asztali feladat 0228\\fuggohid\\fuggohid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|solutionrelative:fuggohid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\school-stuff github\\13p-2024-25\\2025.02.28\\asztali feladat 0228\\fuggohid\\fuggohid\\fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|solutionrelative:fuggohid\\fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|d:\\t\u00FCnde - ne t\u00F6r\u00F6ld\\school-stuff github\\13p-2024-25\\2025.02.28\\asztali feladat 0228\\fuggohid\\fuggohid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|solutionrelative:fuggohid\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|solutionrelative:fuggohid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5F9D3E2-B186-43F7-9759-A699C172217B}|fuggohid\\fuggohid.csproj|solutionrelative:fuggohid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,21 +33,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 362,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\fuggohid\\fuggohid\\Form1.cs",
+              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\Form1.cs",
               "RelativeDocumentMoniker": "fuggohid\\Form1.cs",
-              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\fuggohid\\fuggohid\\Form1.cs",
+              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\Form1.cs",
               "RelativeToolTip": "fuggohid\\Form1.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAtwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T08:11:13.939Z",
               "IsPinned": true,
@@ -55,15 +51,23 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\fuggohid\\fuggohid\\Form1.cs",
+              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\Form1.cs",
               "RelativeDocumentMoniker": "fuggohid\\Form1.cs",
-              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\fuggohid\\fuggohid\\Form1.cs [Design]",
+              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\Form1.cs [Design]",
               "RelativeToolTip": "fuggohid\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T08:05:14.296Z",
@@ -71,26 +75,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Fuggohid.cs",
-              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\fuggohid\\fuggohid\\Fuggohid.cs",
+              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\Fuggohid.cs",
               "RelativeDocumentMoniker": "fuggohid\\Fuggohid.cs",
-              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\fuggohid\\fuggohid\\Fuggohid.cs",
+              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\Fuggohid.cs",
               "RelativeToolTip": "fuggohid\\Fuggohid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T08:07:02.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\fuggohid\\fuggohid\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "fuggohid\\Form1.Designer.cs",
-              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\fuggohid\\fuggohid\\Form1.Designer.cs",
+              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\Form1.Designer.cs",
               "RelativeToolTip": "fuggohid\\Form1.Designer.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAhwGAAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T08:28:53.069Z",
               "EditorCaption": ""
@@ -99,27 +103,25 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\fuggohid\\fuggohid\\Program.cs",
+              "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\Program.cs",
               "RelativeDocumentMoniker": "fuggohid\\Program.cs",
-              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\fuggohid\\fuggohid\\Program.cs",
+              "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\feladat\\fuggohid\\fuggohid\\Program.cs",
               "RelativeToolTip": "fuggohid\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:29:52.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T08:29:52.888Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Asztali feladat 0228\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
               "ToolTip": "D:\\T\u00DCNDE - ne t\u00F6r\u00F6ld\\school-stuff github\\13P-2024-25\\2025.02.28\\Asztali feladat 0228\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
-              "RelativeToolTip": "..\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
+              "RelativeToolTip": "..\\..\\Asztali feladat 0228\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:11:21.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T08:11:21.435Z"
             }
           ]
         }

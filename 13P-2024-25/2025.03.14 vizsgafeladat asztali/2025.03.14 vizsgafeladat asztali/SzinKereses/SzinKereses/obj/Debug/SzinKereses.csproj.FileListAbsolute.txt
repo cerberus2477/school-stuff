@@ -1,0 +1,7 @@
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\SzinKereses\SzinKereses\bin\Debug\SzinKereses.exe.config
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\SzinKereses\SzinKereses\bin\Debug\SzinKereses.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\SzinKereses\SzinKereses\bin\Debug\SzinKereses.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\SzinKereses\SzinKereses\obj\Debug\SzinKereses.csproj.AssemblyReference.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\SzinKereses\SzinKereses\obj\Debug\SzinKereses.csproj.CoreCompileInputs.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\SzinKereses\SzinKereses\obj\Debug\SzinKereses.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\SzinKereses\SzinKereses\obj\Debug\SzinKereses.pdb

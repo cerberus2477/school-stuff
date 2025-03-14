@@ -1,0 +1,40 @@
+D:\Feri\13sz\180312\Szinkereso\Szinkereso\bin\Debug\Szinkereso.exe.config
+D:\Feri\13sz\180312\Szinkereso\Szinkereso\bin\Debug\Szinkereso.exe
+D:\Feri\13sz\180312\Szinkereso\Szinkereso\bin\Debug\Szinkereso.pdb
+D:\Feri\13sz\180312\Szinkereso\Szinkereso\obj\Debug\Szinkereso.csprojResolveAssemblyReference.cache
+D:\Feri\13sz\180312\Szinkereso\Szinkereso\obj\Debug\Szinkereso.frmSzinkereso.resources
+D:\Feri\13sz\180312\Szinkereso\Szinkereso\obj\Debug\Szinkereso.Properties.Resources.resources
+D:\Feri\13sz\180312\Szinkereso\Szinkereso\obj\Debug\Szinkereso.csproj.GenerateResource.Cache
+D:\Feri\13sz\180312\Szinkereso\Szinkereso\obj\Debug\Szinkereso.csproj.CoreCompileInputs.cache
+D:\Feri\13sz\180312\Szinkereso\Szinkereso\obj\Debug\Szinkereso.exe
+D:\Feri\13sz\180312\Szinkereso\Szinkereso\obj\Debug\Szinkereso.pdb
+V:\C#\Szinkereső3\Szinkereso\bin\Debug\Szinkereso.exe.config
+V:\C#\Szinkereső3\Szinkereso\bin\Debug\Szinkereso.exe
+V:\C#\Szinkereső3\Szinkereso\bin\Debug\Szinkereso.pdb
+V:\C#\Szinkereső3\Szinkereso\obj\Debug\Szinkereso.csprojAssemblyReference.cache
+V:\C#\Szinkereső3\Szinkereso\obj\Debug\Szinkereso.frmSzinkereso.resources
+V:\C#\Szinkereső3\Szinkereso\obj\Debug\Szinkereso.Properties.Resources.resources
+V:\C#\Szinkereső3\Szinkereso\obj\Debug\Szinkereso.csproj.GenerateResource.cache
+V:\C#\Szinkereső3\Szinkereso\obj\Debug\Szinkereso.csproj.CoreCompileInputs.cache
+V:\C#\Szinkereső3\Szinkereso\obj\Debug\Szinkereso.exe
+V:\C#\Szinkereső3\Szinkereso\obj\Debug\Szinkereso.pdb
+C:\Users\gyombolai.ferenc.BORONKAY\Downloads\Színkereső_alap\Színkereső_alap\Szinkereso\bin\Debug\Szinkereso.exe.config
+C:\Users\gyombolai.ferenc.BORONKAY\Downloads\Színkereső_alap\Színkereső_alap\Szinkereso\bin\Debug\Szinkereso.exe
+C:\Users\gyombolai.ferenc.BORONKAY\Downloads\Színkereső_alap\Színkereső_alap\Szinkereso\bin\Debug\Szinkereso.pdb
+C:\Users\gyombolai.ferenc.BORONKAY\Downloads\Színkereső_alap\Színkereső_alap\Szinkereso\obj\Debug\Szinkereso.csproj.AssemblyReference.cache
+C:\Users\gyombolai.ferenc.BORONKAY\Downloads\Színkereső_alap\Színkereső_alap\Szinkereso\obj\Debug\Szinkereso.frmSzinkereso.resources
+C:\Users\gyombolai.ferenc.BORONKAY\Downloads\Színkereső_alap\Színkereső_alap\Szinkereso\obj\Debug\Szinkereso.Properties.Resources.resources
+C:\Users\gyombolai.ferenc.BORONKAY\Downloads\Színkereső_alap\Színkereső_alap\Szinkereso\obj\Debug\Szinkereso.csproj.GenerateResource.cache
+C:\Users\gyombolai.ferenc.BORONKAY\Downloads\Színkereső_alap\Színkereső_alap\Szinkereso\obj\Debug\Szinkereso.csproj.CoreCompileInputs.cache
+C:\Users\gyombolai.ferenc.BORONKAY\Downloads\Színkereső_alap\Színkereső_alap\Szinkereso\obj\Debug\Szinkereso.exe
+C:\Users\gyombolai.ferenc.BORONKAY\Downloads\Színkereső_alap\Színkereső_alap\Szinkereso\obj\Debug\Szinkereso.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\Szinkereso\bin\Debug\Szinkereso.exe.config
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\Szinkereso\bin\Debug\Szinkereso.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\Szinkereso\bin\Debug\Szinkereso.pdb
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\Szinkereso\obj\Debug\Szinkereso.csproj.AssemblyReference.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\Szinkereso\obj\Debug\Szinkereso.frmSzinkereso.resources
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\Szinkereso\obj\Debug\Szinkereso.Properties.Resources.resources
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\Szinkereso\obj\Debug\Szinkereso.csproj.GenerateResource.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\Szinkereso\obj\Debug\Szinkereso.csproj.CoreCompileInputs.cache
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\Szinkereso\obj\Debug\Szinkereso.exe
+D:\TÜNDE - ne töröld\school-stuff github\13P-2024-25\2025.03.14 vizsgafeladat asztali\Szinkereso\obj\Debug\Szinkereso.pdb
